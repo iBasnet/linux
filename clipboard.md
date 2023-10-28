@@ -19,4 +19,4 @@
           "tab.activeBorder": "#00ffff",
           "tab.inactiveBackground": "#0F111A",
           "editorGroupHeader.tabsBackground": "#0F111A"
-     },
+}
